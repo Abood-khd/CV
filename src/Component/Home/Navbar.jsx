@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 
-export default function Navbar() {
+export default function Navbar() /Cv/#{
 
 
  
@@ -10,7 +10,7 @@ export default function Navbar() {
     <>
       <nav className='   navbar navbar-expand-lg p-4  navbar'>
         <div className="container-fluid ">
-          <Link className="navbar-brand fs-1 position-relative" to="/">
+          <Link className="navbar-brand fs-1 position-relative" to="/Cv/#/">
             𝓐k
             <span className="fa-2xs point position-absolute  ">
               <i class="ms-1   fa-solid fa-circle fa-fade text-dark  fa-2xs"></i>
@@ -42,13 +42,13 @@ export default function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/resume">
+                <Link className="nav-link" to="/Cv/#/resume">
                   Resume
                 </Link>
                 <span className="lin"></span>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/contact">
+                <Link className="nav-link" to="/Cv/#/contact">
                   Contact
                 </Link>
                 <span className="lin"></span>
