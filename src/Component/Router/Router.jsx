@@ -10,7 +10,7 @@ export default function Router() {
 
   const routes = createHashRouter([
     {
-      path: "/*",
+      path: "/",
       element: <LayOut />,
       children: [
         { index: true, element: <HomePages /> },
