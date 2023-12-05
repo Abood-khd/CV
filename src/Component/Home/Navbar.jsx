@@ -32,7 +32,7 @@ export default function Navbar() {
             <ul className="navbar-nav ms-auto gap-3 mb-lg-0">
               <li className="nav-item">
                 <Link
-                  className="nav-link nav-mood active"
+                  className="nav-link active"
                   aria-current="page"
                   to="/projects"
                 >
@@ -41,6 +41,7 @@ export default function Navbar() {
 
                 </Link>
               </li>
+
               <li className="nav-item">
                 <Link className="nav-link" aria-current="page" to="/resume">
                   
@@ -48,6 +49,7 @@ export default function Navbar() {
                 </Link>
                 <span className="lin"></span>
               </li>
+
               <li className="nav-item">
                 <Link className="nav-link" aria-current="page" to="/contact">
                   Contact
