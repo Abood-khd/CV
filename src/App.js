@@ -1,11 +1,12 @@
 /* eslint-disable no-undef */
 import { ToastContainer } from "react-toastify";
 import { RouterProvider, createBrowserRouter, createHashRouter } from 'react-router-dom';
-import LayOut from '../LayOut/LayOut';
-import HomePages from '../Home/HomePages';
-import Projects from '../Projects/Projects';
-import Contact from '../Contact/Contact';
-import Resume from '../Resume/Resume';
+
+import LayOut from "./Component/LayOut/LayOut";
+import HomePages from "./Component/Home/HomePages";
+import Projects from "./Component/Projects/Projects";
+import Contact from "./Component/Contact/Contact";
+import Resume from "./Component/Resume/Resume";
 
 
 const routes = createHashRouter([
