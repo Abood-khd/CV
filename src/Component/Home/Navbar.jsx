@@ -43,7 +43,7 @@ export default function Navbar() {
               </li>
 
               <li className="nav-item">
-                <Link className="nav-link" aria-current="page" to="/resume">
+                <Link className="nav-link active" aria-current="page" to="/resume">
                   
                   Resume
                 </Link>
@@ -51,7 +51,7 @@ export default function Navbar() {
               </li>
 
               <li className="nav-item">
-                <Link className="nav-link" aria-current="page" to="/contact">
+                <Link className="nav-link active"  aria-current="page" to="/contact">
                   Contact
                 </Link>
                 <span className="lin"></span>
