@@ -20,7 +20,6 @@ const routes = createHashRouter([
       {path:'/resume' , element:   <Resume />},
 
 
-      // {path: "*",element:<ErrorPage/>},
     ],
   },
 ]);
@@ -37,19 +36,12 @@ const routes = createHashRouter([
 function App() {
   return (
     <>
-       <RouterProvider router={routes}>
-
-        <>
+       <RouterProvider router={routes}></RouterProvider>;
           <ToastContainer
             position="bottom-center"
             autoClose="true"
             theme="dark"
             />
-        </>
-
-            </RouterProvider>;
- 
-
     </>
   );
 }
