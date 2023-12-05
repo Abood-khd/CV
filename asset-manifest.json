@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Cv/static/css/main.0c6a9574.css",
+    "main.js": "/Cv/static/js/main.850aa6a8.js",
+    "static/media/anon.mp4": "/Cv/static/media/anon.53ada0b96d2011d537cc.mp4",
+    "static/media/movie-app.mp4": "/Cv/static/media/movie-app.c4b425ad63b3b6de6e3c.mp4",
+    "static/media/Devfolio.mp4": "/Cv/static/media/Devfolio.89d9c14068448d747772.mp4",
+    "static/media/tailwend.mp4": "/Cv/static/media/tailwend.99b0cb84d9c4d701e458.mp4",
+    "static/media/game.mp4": "/Cv/static/media/game.e8a9ea1805e17e10905e.mp4",
+    "static/media/Danillo.mp4": "/Cv/static/media/Danillo.b6dea79f0577feaad8a7.mp4",
+    "static/media/E-commerce.webm": "/Cv/static/media/E-commerce.b9732cc4fde92bd592a3.webm",
+    "static/media/fokir.mp4": "/Cv/static/media/fokir.8b8e0027533c83f073b4.mp4",
+    "static/media/jquery.mp4": "/Cv/static/media/jquery.568282c211d75fe244ad.mp4",
+    "static/media/crud.mp4": "/Cv/static/media/crud.3172d40beb217c8e62f5.mp4",
+    "static/media/Kirre.mp4": "/Cv/static/media/Kirre.640eb1089f2da9fd0b4c.mp4",
+    "static/media/book-mark.mp4": "/Cv/static/media/book-mark.2e23be2507bf30146b0b.mp4",
+    "static/media/fa-solid-900.ttf": "/Cv/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Cv/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Cv/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Cv/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Cv/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/383396321___n.jpg": "/Cv/static/media/383396321_1227161735339779_6867182766095228000_n.351c54f8acc2f62ac024.jpg",
+    "static/media/fa-regular-400.woff2": "/Cv/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Cv/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Cv/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Cv/index.html",
+    "main.0c6a9574.css.map": "/Cv/static/css/main.0c6a9574.css.map",
+    "main.850aa6a8.js.map": "/Cv/static/js/main.850aa6a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c6a9574.css",
+    "static/js/main.850aa6a8.js"
+  ]
+}
