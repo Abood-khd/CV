@@ -42,14 +42,14 @@ export default function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" aria-current="page" to="Cv/#/resume">
+                <Link className="nav-link" aria-current="page" to="/resume">
                   
                   Resume
                 </Link>
                 <span className="lin"></span>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" aria-current="page" to="Cv/#/contact">
+                <Link className="nav-link" aria-current="page" to="/contact">
                   Contact
                 </Link>
                 <span className="lin"></span>
