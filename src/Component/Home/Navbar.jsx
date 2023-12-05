@@ -10,13 +10,13 @@ export default function Navbar() {
     <>
       <nav className='   navbar navbar-expand-lg p-4  navbar'>
         <div className="container-fluid ">
-          <a className="navbar-brand fs-1 position-relative" href="/">
+          <Link className="navbar-brand fs-1 position-relative" href="/">
             𝓐k
             <span className="fa-2xs point position-absolute  ">
               <i class="ms-1   fa-solid fa-circle fa-fade text-dark  fa-2xs"></i>
 
             </span>
-          </a>
+          </Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -42,15 +42,15 @@ export default function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/resume">
+                <Link className="nav-link" href="/resume">
                   Resume
-                </a>
+                </Link>
                 <span className="lin"></span>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/contact">
+                <Link className="nav-link" href="/contact">
                   Contact
-                </a>
+                </Link>
                 <span className="lin"></span>
 
               </li>
