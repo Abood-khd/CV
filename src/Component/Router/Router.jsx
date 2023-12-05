@@ -14,10 +14,10 @@ export default function Router() {
       element: <LayOut />,
       children: [
         { index: true, element: <HomePages /> },
-        { path: "/homepages", element: <HomePages /> },
-        { path: "/projects", element: <Projects /> },
-        {path:'/contact' , element:   <Contact />},
-        {path:'/resume' , element:   <Resume />},
+        { path: "Cv/#/homepages", element: <HomePages /> },
+        { path: "Cv/#/projects", element: <Projects /> },
+        {path:'Cv/#/contact' , element:   <Contact />},
+        {path:'Cv/#/resume' , element:   <Resume />},
 
 
         // {path: "*",element:<ErrorPage/>},

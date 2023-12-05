@@ -42,13 +42,13 @@ export default function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/resume">
+                <Link className="nav-link" to="Cv/#/resume">
                   Resume
                 </Link>
                 <span className="lin"></span>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/contact">
+                <Link className="nav-link" to="Cv/#/contact">
                   Contact
                 </Link>
                 <span className="lin"></span>
