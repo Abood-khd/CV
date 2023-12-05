@@ -5,11 +5,12 @@ import HomePages from '../Home/HomePages';
 import Projects from '../Projects/Projects';
 import Contact from '../Contact/Contact';
 import Resume from '../Resume/Resume';
+
 export default function Router() {
 
-  let routes = createHashRouter([
+  const routes = createHashRouter([
     {
-      path: "/",
+      path: "/*",
       element: <LayOut />,
       children: [
         { index: true, element: <HomePages /> },
