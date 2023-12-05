@@ -10,7 +10,7 @@ export default function Navbar() {
     <>
       <nav className='   navbar navbar-expand-lg p-4  navbar'>
         <div className="container-fluid ">
-          <Link className="navbar-brand fs-1 position-relative" href="/">
+          <Link className="navbar-brand fs-1 position-relative" to="/">
             𝓐k
             <span className="fa-2xs point position-absolute  ">
               <i class="ms-1   fa-solid fa-circle fa-fade text-dark  fa-2xs"></i>
@@ -42,13 +42,13 @@ export default function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" href="/resume">
+                <Link className="nav-link" to="/resume">
                   Resume
                 </Link>
                 <span className="lin"></span>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" href="/contact">
+                <Link className="nav-link" to="/contact">
                   Contact
                 </Link>
                 <span className="lin"></span>
